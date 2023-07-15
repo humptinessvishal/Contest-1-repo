@@ -1,0 +1,60 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 87px;
+}
+.companyname{
+    font-size: 150%;
+    padding-top: 26px;
+    padding-left: 30px;
+}
+.main{
+    padding-top: 26px;
+    padding-left: 30px;
+}
+#heading{
+    font-size: 400%;
+}
+#paragraph{
+    font-size: 130%;
+    margin-right: 30px;
+}
+.button{
+    font-size: 200%;
+    background-color: black;
+    color: white;
+    padding: 1% 2%;
+}
+img{
+    width: 729px;
+    height: 911px;
+}
+.ol{
+    font-size: 200%;
+}
+.ul{
+    font-size: 200%;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    font-size: medium;
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+#last{
+    background-color: black;
+    color: white;
+    font-size: medium;
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
